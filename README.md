@@ -1,1 +1,2 @@
 # Projects
+The following notebooks contain data analysis for different purposes and domains (Society, Environment, E-commerce and Economy). They are all written in Python and PySpark. I use libraries for data manipulation (Pandas, Numpy), regular expressions (Re), data visualisation (Matplotlib, Seaborn), machine learning (Scikit-learn) and statistics (Scipy Stats and Statsmodels). I also use Business oriented platforms such Tableau and PowerBI.
